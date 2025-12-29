@@ -1,0 +1,5 @@
+Project 2 - Spectre
+
+Your task for project 2 is simple. No need to worry about any configurations, setups, etc. Just download the skeleton code of a Spectre Attack demo, fill in the missing code and run it on your machine. All instructions and hints are given in the code already. Your expected output will be the correctly leaked SECRET string.
+
+Please submit your code to Gradescope for grading. Note that you are supposed to keep the code skeleton provided to you AS-IS. Do not modify any of the code template. Only do fill-ins. The deadline is November 15th 23:59.
